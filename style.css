@@ -1,0 +1,10 @@
+:root {
+    --morango-principal:#Ff0000;
+    --kiwi-secundario: #00FF00;
+    --botão-laranja: #Ffa500;
+    --cor-de-fundo: #000 ;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
